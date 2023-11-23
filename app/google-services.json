@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522595232564",
+    "project_id": "salon-login-registration",
+    "storage_bucket": "salon-login-registration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522595232564:android:40679b15e44b073b0b9361",
+        "android_client_info": {
+          "package_name": "com.example.salonappontment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGfnzXhT5-xZQVml8IRTWXNUFrSl9VBfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
